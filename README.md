@@ -8,3 +8,4 @@ NVIDIA Stock Data 2025.
 [https://www.kaggle.com/competitions/champs-scalar-coupling/code](https://www.kaggle.com/datasets/umerhaddii/nvidia-stock-data-2024/data)
 ## Fase-1 and 2
 The notebook does not require any additional elements, just ALL the lines of code must be executed in the order in which they are.
+## Video sustentación: [Youtube](https://www.youtube.com/watch?v=lQVqiUtCpRQ)
